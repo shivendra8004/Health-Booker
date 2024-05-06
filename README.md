@@ -2,18 +2,6 @@
 <h1 align="center">HealthBooker 🧑‍⚕️</h1>
 
 <div align="center">
-  <br>
-  <img src="https://img.shields.io/github/repo-size/Avinash905/HealthBooker?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-closed-raw/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/last-commit/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-pr/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-pr-closed-raw/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/forks/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/stars/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/contributors-anon/Avinash905/HealthBooker?style=for-the-badge" />
-  </div>
-  <br>
 
 <h3>📝 Description :</h3> 
 Welcome to our comprehensive healthcare platform! Our website offers a seamless experience for users and doctors alike. Sign up or log in to unlock a range of features. Easily browse through a list of available doctors, manage your profile, and submit queries effortlessly. Stay updated with notifications and enjoy secure access to your information. Aspiring doctors can apply through our user-friendly system. Book appointments with your preferred doctors and track their completion status. Admin features ensure smooth operations, including approval of doctor applications and user management. Rest assured, all data is stored securely. Join us to experience a new era of convenient and efficient healthcare interactions.
@@ -49,10 +37,9 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 
 <div align=center>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dunna-avinash)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avinash905)
-<a href="mailto:avinash.90527@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avinashdunna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shivendrajat)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivendra8004)
+<a href="mailto:shivendra8004@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
