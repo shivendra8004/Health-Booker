@@ -7,16 +7,16 @@ import Navbar from "../components/Navbar";
 import HomeCircles from "../components/HomeCircles";
 
 const Home = () => {
-  return (
-    <>
-      <Navbar />
-      <Hero />
-      <AboutUs />
-      <HomeCircles />
-      <Contact />
-      <Footer />
-    </>
-  );
+    return (
+        <>
+            <Navbar />
+            <Hero />
+            <AboutUs />
+            <HomeCircles />
+            <Contact />
+            <Footer />
+        </>
+    );
 };
 
 export default Home;
